@@ -1,2 +1,2 @@
 # CSES-problemset-solutions
-Solutions for the CSES problemset at https://cses.fi/problemset/ .
+Solutions for the CSES problemset https://cses.fi/problemset/ .
